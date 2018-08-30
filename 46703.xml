@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="GB2312"?>
+<MsgText>
+    <MsgHdr>
+        <BkInst/>
+        <Date>20170113</Date>
+        <Time>102727</Time>
+        <InstrCd>46703</InstrCd>
+        <LstFrag>N</LstFrag>
+        <RqRef>
+            <Ref>1000000000000226</Ref>
+        </RqRef>
+        <SvInst>
+            <InstId>P0003000</InstId>
+            <InstType>0</InstType>
+        </SvInst>
+        <SysType>4</SysType>
+        <TradSrc>0</TradSrc>
+        <Ver>V3.0.0.27</Ver>
+    </MsgHdr>
+    <BkAcct>
+        <Id>6227003325370110828</Id>
+        <Name>???</Name>
+        <BkCode>123</BkCode>
+        <BkId>3</BkId>
+        <BkName>???</BkName>
+        <CardType>10</CardType>
+        <TelNo>15221299968</TelNo>
+    </BkAcct>
+    <BusType>4</BusType>
+    <Ccy>0</Ccy>
+    <Cust>
+        <Addr>???????1208</Addr>
+        <CertId>420684198612066444</CertId>
+        <CertType>1</CertType>
+        <Name>???</Name>
+        <Type>0</Type>
+    </Cust>
+    <MgeAcct>
+        <Id>20170110005</Id>
+    </MgeAcct>
+</MsgText>

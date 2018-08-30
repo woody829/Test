@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312"?>
+<MsgText>
+    <MsgHdr>
+        <BkInst/>
+        <Date>20170120</Date>
+        <Time>144720</Time>
+        <InstrCd>44702</InstrCd>
+        <LstFrag>N</LstFrag>
+        <RqRef>
+            <Ref>10000000000021</Ref>
+        </RqRef>
+        <SvInst>
+            <InstId>P0003000</InstId>
+            <InstType>0</InstType>
+        </SvInst>
+        <SysType>4</SysType>
+        <TradSrc>0</TradSrc>
+        <Ver>V3.0.0.27</Ver>
+    </MsgHdr>
+    <BkAcct>
+        <Id>6226660605945438</Id>
+        <Name>王明</Name>
+        <BkCode>123</BkCode>
+        <BkFlag>1</BkFlag>
+        <BkId>3</BkId>
+        <BkName>工商银行</BkName>
+        <CardType>10</CardType>
+        <TelNo>15221299945</TelNo>
+    </BkAcct>
+    <Ccy>0</Ccy>
+    <FeeAmt>0.00</FeeAmt>
+    <MgeAcct>
+        <Id>10000006666</Id>
+    </MgeAcct>
+    <TrfAmt>1.00</TrfAmt>
+</MsgText>

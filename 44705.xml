@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312"?>
+<MsgText>
+    <MsgHdr>
+        <BkInst/>
+        <Date>20170118</Date>
+        <Time>175852</Time>
+        <InstrCd>44705</InstrCd>
+        <LstFrag>N</LstFrag>
+        <RqRef>
+            <Ref>10000000000024</Ref>
+        </RqRef>
+        <SvInst>
+            <InstId>P0003000</InstId>
+            <InstType>0</InstType>
+        </SvInst>
+        <SysType>4</SysType>
+        <TradSrc>0</TradSrc>
+        <Ver>V3.0.0.27</Ver>
+    </MsgHdr>
+    <Type>r</Type>
+    <BusType>4</BusType>
+    <Ccy>0</Ccy>
+    <TrfAmt>4.00</TrfAmt>
+</MsgText>

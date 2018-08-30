@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="GB2312"?>
+<MsgText>
+    <MsgHdr>
+        <BkInst/>
+        <Date>20170208</Date>
+        <Time>142717</Time>
+        <InstrCd>48701</InstrCd>
+        <LstFrag>N</LstFrag>
+        <RqRef>
+            <Ref>20170208142717266266</Ref>
+        </RqRef>
+        <SvInst>
+            <InstId>P0003000</InstId>
+            <InstType>0</InstType>
+        </SvInst>
+        <SysType>4</SysType>
+        <TradSrc>0</TradSrc>
+        <Ver>V3.0.0.27</Ver>
+    </MsgHdr>
+    <BkAcct>
+        <Id>6227003325370110813</Id>
+        <Name>李伟2</Name>
+        <BkCode>001</BkCode>
+        <BkFlag>1</BkFlag>
+        <BkId>3</BkId>
+        <BkName></BkName>
+        <CardType>10</CardType>
+        <TelNo>18525852363</TelNo>
+    </BkAcct>
+    <BusType>4</BusType>
+    <Ccy>0</Ccy>
+    <Cust>
+        <CertId>420684198612066413</CertId>
+        <CertType>1</CertType>
+        <Name>李伟2</Name>
+        <Type>0</Type>
+    </Cust>
+    <MgeAcct>
+        <Id>20170208003</Id>
+    </MgeAcct>
+    <MsgBox>001002</MsgBox>
+    <RqRef>
+        <Ref>20170208142716573573</Ref>
+    </RqRef>
+</MsgText>
